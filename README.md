@@ -5,30 +5,39 @@
 🚀 Highlights
 
 🌐 Real-time Messaging
+
 Instant chat with typing indicators, emoji reactions, and message status updates.
 
 📹 1-on-1 Video Calls
+
 High-quality video calls with screen sharing and recording support using Stream.
 
 🔐 Secure Authentication
+
 Fully protected routes with JWT-based authentication and session management.
 
 🌍 Language Exchange Platform
+
 Designed for meaningful global conversations, featuring 32 dynamic UI themes.
 
 ⚡ Modern Tech Stack
+
 Built with React, Express, MongoDB, TailwindCSS, and TanStack Query for fast, scalable performance.
 
 🧠 State Management with Zustand
+
 Lightweight and powerful global state management across the app.
 
 🚨 Robust Error Handling
+
 Graceful error feedback on both frontend and backend for a reliable UX.
 
 🎯 Built for Scale
+
 Leveraging Stream SDKs and scalable architecture for real-time communication.
 
 ⏳ More to Explore
+
 From friend requests, profile avatars, and dark mode, to mobile responsiveness– NexChat keeps evolving.
 
 
